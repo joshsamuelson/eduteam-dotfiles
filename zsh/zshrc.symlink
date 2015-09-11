@@ -1,3 +1,4 @@
+
 # your project folder that we can `c [tab]` to
 export PROJECTS=~/repo
 
@@ -102,8 +103,7 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/loca
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-alias vi='/usr/local/bin/vim'
-alias vim='/usr/local/bin/vim'
+alias vi=vim
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
@@ -111,3 +111,4 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export GOPATH=/Users/joshsamuelson/gocode
 export PATH=$PATH:$GOPATH/bin
 
+export PATH=~/bin:$PATH

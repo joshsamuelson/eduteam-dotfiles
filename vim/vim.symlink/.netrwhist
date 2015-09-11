@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Volumes/Repos/pltraining-bootstrap/manifests'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Volumes/Repos/puppetfactory/puppetfactory/lib/puppetfactory'
+let g:netrw_dirhist_2='/Users/joshsamuelson/build/output/learning-base-vmware'
+let g:netrw_dirhist_3='/Volumes/Repos/puppetfactory/puppetfactory/lib'
