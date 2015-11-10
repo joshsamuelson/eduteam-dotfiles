@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Volumes/Repos/puppetfactory/puppetfactory/lib/puppetfactory'
-let g:netrw_dirhist_2='/Users/joshsamuelson/build/output/learning-base-vmware'
-let g:netrw_dirhist_3='/Volumes/Repos/puppetfactory/puppetfactory/lib'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Volumes/Repos/puppetlabs-training-bootstrap/packer/scripts'
+let g:netrw_dirhist_2='/Volumes/Repos/courseware-virtual/future_parser/Course_Overview'
+let g:netrw_dirhist_3='/Volumes/Repos/puppetlabs-training-bootstrap/packer/scripts'
+let g:netrw_dirhist_4='/Volumes/Repos/pltraining-bootstrap/manifests/profile'
+let g:netrw_dirhist_5='/Users/joshsamuelson/build/output/student-vmware'
+let g:netrw_dirhist_6='/Volumes/Repos/puppetfactory/puppetfactory'
+let g:netrw_dirhist_7='/Volumes/Repos/courseware-virtual/windows_essentials/_files/win_essentials/manifests'
+let g:netrw_dirhist_8='/Volumes/Repos/courseware-virtual/windows_essentials/_files/win_essentials/solutions'
